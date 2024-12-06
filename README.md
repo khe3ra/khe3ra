@@ -1,2 +1,2 @@
 ## Hi there 👋
-obsidian://open?vault=Obsidian&file=README%2Fkuru-k%C3%BCr%C3%BC-rin-r%C4%B1n.gif
+![kuru-kürü-rin-rın](https://github.com/user-attachments/assets/44a79b4e-102b-43f4-8573-75342df2a337)
