@@ -3,7 +3,7 @@
 ---
 I'm currently studying in 11th grade and I want to become a Software Engineer.<br>
 I'm learning programming languages alongside my studies.<br>
-I know **HTML**, **CSS**, **JAVASCRIPT**, **REACT**, **C**, **PYTHON**, **JAVA**.![MyDressUpDarlingAnimeSmileGIF](https://github.com/user-attachments/assets/eed7a8fe-3d53-4c7c-ad6e-1c212958619d height: 40px width: 40px)
+I know **HTML**, **CSS**, **JAVASCRIPT**, **REACT**, **C**, **PYTHON**, **JAVA**.![MyDressUpDarlingAnimeSmileGIF](https://github.com/user-attachments/assets/eed7a8fe-3d53-4c7c-ad6e-1c212958619d)
 ### I LIKE CATS!
 
 
